@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.AssemblyInfo.cs
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\massiv.md\задача\bin\Debug\net6.0\задача.exe
+C:\Users\1\Desktop\massiv.md\задача\bin\Debug\net6.0\задача.deps.json
+C:\Users\1\Desktop\massiv.md\задача\bin\Debug\net6.0\задача.runtimeconfig.json
+C:\Users\1\Desktop\massiv.md\задача\bin\Debug\net6.0\задача.dll
+C:\Users\1\Desktop\massiv.md\задача\bin\Debug\net6.0\задача.pdb
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.dll
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\refint\задача.dll
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.pdb
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\задача.genruntimeconfig.cache
+C:\Users\1\Desktop\massiv.md\задача\obj\Debug\net6.0\ref\задача.dll
