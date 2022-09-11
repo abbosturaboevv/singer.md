@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\massiv.md\Homework25\bin\Debug\net6.0\Homework25.exe
+C:\Users\1\Desktop\massiv.md\Homework25\bin\Debug\net6.0\Homework25.deps.json
+C:\Users\1\Desktop\massiv.md\Homework25\bin\Debug\net6.0\Homework25.runtimeconfig.json
+C:\Users\1\Desktop\massiv.md\Homework25\bin\Debug\net6.0\Homework25.dll
+C:\Users\1\Desktop\massiv.md\Homework25\bin\Debug\net6.0\Homework25.pdb
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.AssemblyInfo.cs
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.dll
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\refint\Homework25.dll
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.pdb
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\Homework25.genruntimeconfig.cache
+C:\Users\1\Desktop\massiv.md\Homework25\obj\Debug\net6.0\ref\Homework25.dll
